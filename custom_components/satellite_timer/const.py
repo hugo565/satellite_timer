@@ -1,0 +1,1 @@
+DOMAIN = "satellite_timer"
