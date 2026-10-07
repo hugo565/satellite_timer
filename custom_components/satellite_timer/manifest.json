@@ -1,0 +1,10 @@
+{
+  "domain": "satellite_timer",
+  "name": "Satellite Timer",
+  "documentation": "https://github.com/hugo/satellite_timer",
+  "requirements": [],
+  "codeowners": [],
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "config_flow": true
+}
